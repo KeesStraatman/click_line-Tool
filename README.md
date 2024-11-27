@@ -1,6 +1,6 @@
 # Draw line between two points
 
-This macro will draw a line between two points created via mouse click 
+This macro will draw a line between two points created via mouse click. You can create as many lines as you want. 
 
 # Download code
 Select the file "Click_line tool.ijm" and select "Raw" from the right side menu. Select all the code and copy and paste this into the text editor from ImageJ/Fiji (File > New > Text Window). Alternatively, you can download all files via the green "Code" button as a ZIP file and extract the macro file. Save this file in your macros sub-folder within the ImageJ or Fiji folder with the name Click_line tool.ijm.
